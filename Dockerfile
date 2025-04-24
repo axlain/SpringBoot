@@ -1,5 +1,6 @@
 #Escoger imagen de docker para una aplicación
 
+
 # Definir el directorio de trabajo dentro del contenedor
 
 
@@ -13,4 +14,5 @@
 
 
 
-#Se utiliza el comando ENTRYPOINT para especificar el comando que se ejecutará al iniciar el contenedor
+#Se utiliza el comando ENTRYPOINT para especificar 
+#el comando que se ejecutará al iniciar el contenedor
